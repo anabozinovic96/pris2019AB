@@ -1,2 +1,2 @@
-console.log('Big dude Lebowski')
+console.log('The Dude Lebowski')
 
